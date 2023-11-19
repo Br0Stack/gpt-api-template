@@ -1,7 +1,7 @@
 # gpt-api-template
 Deploy a GPT API in any programming language quickly using this template :fire:
 
-Here is an example approach in Python:
+Here is an example approach:
 
 Choose Your Programming Language and Framework:
 
