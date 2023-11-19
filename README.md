@@ -4,7 +4,6 @@ Deploy a GPT API in any programming language quickly using this template :fire:
 Here is an example approach:
 
 1. Choose Your Programming Language and Framework:
-
 - Python is a great choice due to its extensive libraries and community support.
 - FastAPI is a modern, fast framework for building APIs with Python. It's well-suited for machine learning and AI APIs like GPT due to its asynchronous support and automatic generation of interactive API documentation.
 
